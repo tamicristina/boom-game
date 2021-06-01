@@ -30,4 +30,4 @@ function adicionarBalao() {
 
 setInterval(adicionarBalao, 3000); //3000 milesegundos = 3 segundos
 
-// adicionarBalao();
+adicionarBalao();
